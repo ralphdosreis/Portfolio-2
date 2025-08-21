@@ -1,0 +1,57 @@
+.about-bg {
+  background: #0E1203;
+}
+
+.about {
+  padding: 60px 0px;
+}
+
+.content-about {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  margin: 0 auto;
+  gap: 90px;
+}
+
+
+
+.text {
+  display: grid;
+  gap: 5px;
+  margin-bottom: 20px;
+}
+
+
+.text p {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #919191;
+  font-weight: 500;
+}
+
+.text a {
+  color: #E1C9A5;
+}
+
+
+.hard-skills div{
+  display: flex;
+  gap:40px;
+  margin-bottom: 20px;
+}
+
+.hard-skills li {
+  display: grid;
+  justify-items: center;
+  gap: 5px;
+}
+
+.hard-skills p {
+  font-family: "Poppins", sans-serif;
+  font-size: 0.75rem;
+  line-height: 1.33;
+  color: #919191;
+}
+

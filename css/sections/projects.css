@@ -1,0 +1,21 @@
+.project-bg {
+  background: #0E1203;
+}
+
+.project {
+  padding: 60px 0;
+}
+
+.site-project {
+  display: flex;
+  gap: 90px;
+}
+
+.content {
+  display: grid;
+}
+
+.buttons {
+  display: flex;
+  gap:20px;
+}

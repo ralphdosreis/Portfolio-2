@@ -1,0 +1,20 @@
+.home-bg {
+  background: #0E1203;
+}
+
+.home {
+  display: grid;
+  justify-content: center;
+  padding: 120px 0px;
+}
+
+.tittle-home {
+  font-family: "Source Code Pro", monospace;
+  font-weight: 600;
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  letter-spacing: -4px;
+  margin-bottom: 20px;
+}

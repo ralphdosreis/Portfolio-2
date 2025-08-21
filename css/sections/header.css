@@ -1,0 +1,36 @@
+.header-bg {
+  background: #0E1203;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0px;
+}
+
+.logo-header {
+  margin: 0 10px;
+}
+
+.header-menu {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  margin: 0 10px;
+}
+
+.header-menu a {
+  display: inline-block;
+  font-family: "Poppins", monospace;
+  font-weight: 600;
+  font-size: .875rem;
+  line-height: 1.5;
+  color: #A8B089;
+  padding: 16px 0px;
+}
+
+.header-menu a:hover {
+  color:#465222;
+}
