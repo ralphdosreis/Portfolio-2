@@ -6,16 +6,23 @@
   padding: 60px 0;
 }
 
-.site-project {
-  display: flex;
-  gap: 90px;
+.projects {
+  display: grid;
+  gap: 60px;
 }
 
-.content {
-  display: grid;
+.site-project {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 90px;
 }
 
 .buttons {
   display: flex;
   gap:20px;
+}
+
+.text p {
+  max-width: 55ch;
 }
