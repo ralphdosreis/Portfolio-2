@@ -10,8 +10,8 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   justify-items: center;
-  margin: 0 auto;
-  gap: 90px;
+  /* margin: 0 auto; */
+  /* gap: 20px; */
 }
 
 

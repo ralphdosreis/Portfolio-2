@@ -3,9 +3,12 @@
 }
 
 .home {
-  display: grid;
-  justify-content: center;
   padding: 120px 0px;
+}
+
+.home-conteudo {
+  display: grid;
+  justify-items: center;
 }
 
 .tittle-home {

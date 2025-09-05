@@ -15,7 +15,12 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 90px;
+  gap: 60px;
+}
+
+.imagem-projeto {
+  border: 1px solid #000;
+  border-radius: 8px;
 }
 
 .buttons {
