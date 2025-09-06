@@ -28,6 +28,16 @@
   position: absolute;
 } */
 
+.section-footer::after {
+  display: block;
+  content: '';
+  height: 2px;
+  width: 100%;
+  background: #171D06;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
 .copyright {
   text-align: center;
   font-family: "Poppins", monospace;
